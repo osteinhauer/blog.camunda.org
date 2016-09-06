@@ -1,5 +1,5 @@
 +++
-author = "Oliver Steinhauer"
+author = "Jan Galinski, Oliver Steinhauer"
 categories = ["Execution"]
 date = "2016-09-05T08:00:33+02:00"
 tags = ["extension"]
